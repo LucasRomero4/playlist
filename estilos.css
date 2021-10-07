@@ -1,0 +1,32 @@
+.album{
+    text-align: center;
+    margin: 0 auto;
+}
+.imagenplay{
+    width: 120px;
+    height: 120px;
+}
+body{
+    background-color: black;
+}
+.letra {
+    color: white;
+}
+header{
+    background-color: teal;
+}
+div{
+    position: relative;
+}
+footer{
+    background-color: teal;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 8;
+    border: 0;
+}
+.nombrefot{
+    font-family: monospace;
+    text-align: center;
+    font-size: 8mm;
+}
