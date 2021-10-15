@@ -1,0 +1,28 @@
+.nombrefot{
+    color: white;
+    font-family: monospace;
+    text-align: center;
+    font-size: 9mm;
+}
+.footerdiv{
+    height: 300px;
+    background-image: url(https://manualguitarraelectrica.com/wp-content/uploads/2021/02/Pastillas_Guitarra_Electrica.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-right: -100px;
+    margin-left:-100px ;
+    padding-bottom: 10px;
+
+
+    
+}
+.logocet{
+    text-align: center;
+}
+.signostabla{
+    text-align: center;
+    font-size: 5mm;
+    background-color:rgba(4, 29, 4, 0.356);
+    
+}
